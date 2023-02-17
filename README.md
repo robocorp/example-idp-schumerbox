@@ -2,7 +2,7 @@
 
 This example demonstrates how to use RPA Frameworks' RPA.DocumentAI library to extract structured data from credit card [Schumer Box](https://en.wikipedia.org/wiki/Schumer_box). The implementation uses a pre-trained model provided by [Base64.ai](https://base64.ai/).
 
-![schumer example](https://github.com/robocorp/example-idp-schumerbox/blob/8ae1a6643c45bc784b6956c25448d7dcc22abbb3/devdata/work-items-in/default-examples/Schumer-Box-Example1.png)
+![schumer example](/devdata/work-items-in/default-examples/Schumer-Box-Example1.png)
 
 ## Prerequisites
 
