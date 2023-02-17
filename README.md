@@ -1,6 +1,6 @@
-# Read Credict Card Schumer Boxes using Base64.ai
+# Read Credit Card Schumer Boxes using Base64.ai
 
-This example demonstrates how to use RPA Frameworks' RPA.DocumentAI library to extract structured data from credit card [Schumber Box](https://en.wikipedia.org/wiki/Schumer_box). The implementation uses a pre-trained model provided by the [Base64.ai](https://base64.ai/).
+This example demonstrates how to use RPA Frameworks' RPA.DocumentAI library to extract structured data from credit card [Schumer Box](https://en.wikipedia.org/wiki/Schumer_box). The implementation uses a pre-trained model provided by [Base64.ai](https://base64.ai/).
 
 ## Prerequisites
 
